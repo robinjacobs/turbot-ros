@@ -1,2 +1,4 @@
 # turbot-ros
-ROS packages for the turbot robot
+
+## About 
+This repository contains the ROS files used in the turbot project.
